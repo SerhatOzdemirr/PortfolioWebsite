@@ -1,4 +1,4 @@
-Portfolio Website
+#Portfolio Website
 🚀 A modern, interactive, and fully responsive portfolio website built using HTML, CSS, and JavaScript. This project showcases my frontend development skills and demonstrates my ability to create scalable and maintainable web applications using modern CSS techniques and Docker for easy deployment.
 
 📌 Project Overview
@@ -49,60 +49,84 @@ Implement a contact form with backend support.
 Optimize performance with lazy loading and minification.
 Feel free to contribute, open an issue, or fork the repository if you’d like to improve the project! 🚀
 
-Turkish
+# Portfolio Website  
+🚀 **HTML, CSS ve JavaScript** kullanılarak oluşturulmuş, modern, etkileşimli ve tamamen duyarlı bir portföy web sitesi.  
 
-Portföy Web Sitesi
-🚀 HTML, CSS ve JavaScript kullanılarak oluşturulmuş, modern, etkileşimli ve tamamen duyarlı bir portföy web sitesi. Bu proje, frontend geliştirme becerilerimi sergilerken modern CSS teknikleri ve Docker kullanarak ölçeklenebilir ve sürdürülebilir web uygulamaları oluşturma yeteneğimi göstermektedir.
+Bu proje, frontend geliştirme becerilerimi sergilerken **modern CSS teknikleri** ve **Docker** kullanarak ölçeklenebilir ve sürdürülebilir web uygulamaları oluşturma yeteneğimi göstermektedir.  
 
-📌 Proje Özeti
-Bu portföy web sitesi, becerilerimi, projelerimi ve deneyimlerimi öne çıkarmak için tasarlanmıştır. Tüm cihazlarda sorunsuz bir kullanıcı deneyimi sağlamak amacıyla mobil öncelikli bir yaklaşım ile geliştirilmiştir. REM, EM birimleri ve media queries gibi duyarlı tasarım teknikleri kullanılarak farklı ekran boyutlarına uyum sağlanmıştır.
+---
 
-Ayrıca, Docker kullanılarak uygulama konteynerleştirilmiş ve her ortamda tutarlı performansla kolayca dağıtılabilir hale getirilmiştir.
+## 📌 Proje Özeti  
+Bu portföy web sitesi, **becerilerimi, projelerimi ve deneyimlerimi** öne çıkarmak için tasarlanmıştır.  
 
-🛠️ Kullanılan Teknolojiler
-🔹 Frontend Geliştirme
-HTML5 – Daha iyi erişilebilirlik ve SEO için anlamsal (semantic) işaretleme.
-CSS3 – Animasyonlar ve duyarlı (responsive) tasarımlar için modern stil kullanımı.
-JavaScript (ES6+) – Etkileşimli ve dinamik kullanıcı arayüzü bileşenleri.
-Duyarlı Tasarım (Responsive Design) – Masaüstü, tablet ve mobil cihazlarda sorunsuz görüntüleme.
-REM & EM Birimleri – Ölçeklenebilir ve tutarlı tipografi.
-Media Queries – Farklı ekran boyutlarına uyum sağlayan düzenler.
-🔹 DevOps & Dağıtım
-Docker – Uygulama, farklı ortamlar için tutarlı bir şekilde dağıtılabilir.
-Nginx – Hafif ve verimli bir statik dosya sunucusu olarak kullanılmıştır.
-🏗️ Kurulum & Çalıştırma
-Bu projeyi Docker kullanarak yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+Tüm cihazlarda **sorunsuz bir kullanıcı deneyimi** sağlamak amacıyla **mobil öncelikli bir yaklaşım** ile geliştirilmiştir.  
 
-1️⃣ Depoyu klonlayın
+**REM, EM birimleri ve media queries** gibi **duyarlı tasarım** teknikleri kullanılarak farklı ekran boyutlarına uyum sağlanmıştır.  
 
+Ayrıca, **Docker** kullanılarak uygulama konteynerleştirilmiş ve her ortamda **tutarlı performansla** kolayca dağıtılabilir hale getirilmiştir.  
 
-git clone https://github.com/kullaniciadiniz/PortfolioWebsite.git
-cd PortfolioWebsite
-2️⃣ Docker imajını oluşturun
+---
 
+## 🛠️ Kullanılan Teknolojiler  
 
-docker build -t portfolio-website .
-3️⃣ Konteyneri çalıştırın
+### 🔹 Frontend Geliştirme  
+- **HTML5** – Daha iyi erişilebilirlik ve SEO için anlamsal (semantic) işaretleme.  
+- **CSS3** – Animasyonlar ve duyarlı (responsive) tasarımlar için modern stil kullanımı.  
+- **JavaScript (ES6+)** – Etkileşimli ve dinamik kullanıcı arayüzü bileşenleri.  
+- **Duyarlı Tasarım (Responsive Design)** – Masaüstü, tablet ve mobil cihazlarda sorunsuz görüntüleme.  
+- **REM & EM Birimleri** – Ölçeklenebilir ve tutarlı tipografi.  
+- **Media Queries** – Farklı ekran boyutlarına uyum sağlayan düzenler.  
 
+### 🔹 DevOps & Dağıtım  
+- **Docker** – Uygulama, farklı ortamlar için tutarlı bir şekilde dağıtılabilir.  
+- **Nginx** – Hafif ve verimli bir statik dosya sunucusu olarak kullanılmıştır.  
 
-docker run -p 8080:80 portfolio-website
-4️⃣ Web sitesine erişin
-Tarayıcınızı açın ve şu adrese gidin:
-👉 http://localhost:8080
+---
 
-🎨 Özellikler & Avantajlar
-✅ Mobil öncelikli duyarlı (responsive) tasarım
-✅ REM & EM birimleriyle modern tipografi
-✅ Farklı ekran boyutları için media queries desteği
-✅ Minimal ve temiz kullanıcı arayüzü tasarımı
-✅ Optimizasyon ile hafif ve hızlı çalışma
-✅ Docker ile ölçeklenebilir dağıtım
+## 🏗️ Kurulum & Çalıştırma  
 
-🚀 Gelecekteki Geliştirmeler
-JavaScript animasyonları ile daha fazla etkileşim ekleme.
-İletişim formu ekleyerek backend entegrasyonu sağlama.
-Lazy loading ve minifikasyon kullanarak performans optimizasyonu yapma.
-Projeye katkıda bulunmak, hata bildirmek isterseniz, dilediğiniz zaman GitHub üzerinden ulaşabilirsiniz! 🚀
+Bu projeyi **Docker** kullanarak yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:  
 
+### 🔹 **1. Proje Dosyalarını Hazırlayın**  
+   - **GitHub deposunu klonlayın:**  
+     ```sh
+     git clone https://github.com/SerhatOzdemirr/PortfolioWebsite.git
+     cd PortfolioWebsite
+     ```
+
+### 🔹 **2. Docker Kullanarak Projeyi Çalıştırın**  
+   - **Docker imajını oluşturun:**  
+     ```sh
+     docker build -t portfolio-website .
+     ```
+   - **Docker konteynerini çalıştırın:**  
+     ```sh
+     docker run -p 8080:80 portfolio-website
+     ```
+
+### 🔹 **3. Web Sitesine Erişin**  
+   - Tarayıcınızı açın ve şu adrese gidin:  
+     👉 **http://localhost:8080**  
+
+---
+
+## 🎨 Özellikler & Avantajlar  
+✅ **Mobil öncelikli duyarlı (responsive) tasarım**  
+✅ **REM & EM birimleriyle modern tipografi**  
+✅ **Farklı ekran boyutları için media queries desteği**  
+✅ **Minimal ve temiz kullanıcı arayüzü tasarımı**  
+✅ **Optimizasyon ile hafif ve hızlı çalışma**  
+✅ **Docker ile ölçeklenebilir dağıtım**  
+
+---
+
+## 🚀 Gelecekteki Geliştirmeler  
+- **JavaScript animasyonları** ile daha fazla etkileşim ekleme.  
+- **İletişim formu** ekleyerek backend entegrasyonu sağlama.  
+- **Lazy loading ve minifikasyon** kullanarak performans optimizasyonu yapma.  
+
+Projeye katkıda bulunmak, hata bildirmek isterseniz, dilediğiniz zaman GitHub üzerinden ulaşabilirsiniz! 🚀  
+
+ 
 
 
