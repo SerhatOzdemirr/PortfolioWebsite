@@ -8,12 +8,12 @@ Additionally, Docker is used to containerize the application, allowing it to be 
 
 🛠️ Technologies Used
 🔹 Frontend Development
-HTML5 – Semantic markup for better accessibility and SEO.
-CSS3 – Modern styling with animations and responsive layouts.
-JavaScript (ES6+) – Adds interactivity and dynamic UI behavior.
-Responsive Design – Ensures a seamless experience on desktops, tablets, and mobile devices.
-REM & EM Units – Used for scalable and consistent typography.
-Media Queries – Enables adaptive layouts based on screen size.
+*HTML5 – Semantic markup for better accessibility and SEO.
+*CSS3 – Modern styling with animations and responsive layouts.
+*JavaScript (ES6+) – Adds interactivity and dynamic UI behavior.
+*Responsive Design – Ensures a seamless experience on desktops, tablets, and mobile devices.
+*REM & EM Units – Used for scalable and consistent typography.
+*Media Queries – Enables adaptive layouts based on screen size. 
 🔹 DevOps & Deployment
 Docker – The application is containerized for consistent deployment across different environments.
 Nginx – Used as a lightweight web server to efficiently serve static files.
