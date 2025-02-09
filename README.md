@@ -1,53 +1,83 @@
-#Portfolio Website
-🚀 A modern, interactive, and fully responsive portfolio website built using HTML, CSS, and JavaScript. This project showcases my frontend development skills and demonstrates my ability to create scalable and maintainable web applications using modern CSS techniques and Docker for easy deployment.
+# Portfolio Website  
+🚀 A modern, interactive, and fully responsive portfolio website built using **HTML, CSS, and JavaScript**.  
 
-📌 Project Overview
-This portfolio website is designed to highlight my skills, projects, and experience in web development while ensuring a seamless user experience across all devices. The website is built with a mobile-first approach and incorporates responsive design techniques such as REM, EM units, and media queries for adaptive scaling on different screen sizes.
+This project showcases my frontend development skills while also demonstrating my ability to create scalable and maintainable web applications using **modern CSS techniques** and **Docker** for easy deployment.  
 
-Additionally, Docker is used to containerize the application, allowing it to be deployed easily on any environment with consistent performance.
+---
 
-🛠️ Technologies Used
-🔹 Frontend Development
-*HTML5 – Semantic markup for better accessibility and SEO.
-*CSS3 – Modern styling with animations and responsive layouts.
-*JavaScript (ES6+) – Adds interactivity and dynamic UI behavior.
-*Responsive Design – Ensures a seamless experience on desktops, tablets, and mobile devices.
-*REM & EM Units – Used for scalable and consistent typography.
-*Media Queries – Enables adaptive layouts based on screen size. 
-🔹 DevOps & Deployment
-Docker – The application is containerized for consistent deployment across different environments.
-Nginx – Used as a lightweight web server to efficiently serve static files.
-🏗️ Setup & Run
-To run this project locally using Docker, follow these steps:
+## 📌 Project Overview  
+This portfolio website is designed to **highlight my skills, projects, and experience** in web development.  
 
-1️⃣ Clone the repository
+It is developed with a **mobile-first approach** to ensure a **smooth user experience across all devices**.  
 
-git clone https://github.com/yourusername/PortfolioWebsite.git
-cd PortfolioWebsite
-2️⃣ Build the Docker image
+Responsive design techniques such as **REM, EM units, and media queries** have been used to make the layout adaptable to different screen sizes.  
 
+Additionally, **Docker** is used to containerize the application, making it easy to deploy with **consistent performance** across various environments.  
 
-docker build -t portfolio-website .
-3️⃣ Run the container
+---
 
-docker run -p 8080:80 portfolio-website
-4️⃣ Access the website
-Open your browser and go to:
-👉 http://localhost:8080
+## 🛠️ Technologies Used  
 
-🎨 Features & Highlights
-✅ Fully responsive with a mobile-first approach
-✅ Modern typography using REM & EM units
-✅ Media queries for adaptive layouts
-✅ Minimal and clean UI design
-✅ Lightweight & fast with optimized assets
-✅ Dockerized deployment for scalability
+### 🔹 **Frontend Development**  
+- **HTML5** – Semantic markup for better accessibility and SEO.  
+- **CSS3** – Modern styling with animations and responsive layouts.  
+- **JavaScript (ES6+)** – Enhances interactivity and dynamic UI behavior.  
+- **Responsive Design** – Ensures seamless display on desktops, tablets, and mobile devices.  
+- **REM & EM Units** – Used for scalable and consistent typography.  
+- **Media Queries** – Enables adaptive layouts for different screen sizes.  
 
-🚀 Future Improvements
-Add more interactivity with JavaScript animations.
-Implement a contact form with backend support.
-Optimize performance with lazy loading and minification.
-Feel free to contribute, open an issue, or fork the repository if you’d like to improve the project! 🚀
+### 🔹 **DevOps & Deployment**  
+- **Docker** – The application is containerized for consistent deployment across different environments.  
+- **Nginx** – Used as a lightweight web server to efficiently serve static files.  
+
+---
+
+## 🏗️ Setup & Run  
+
+To run this project locally using **Docker**, follow the steps below:  
+
+### 🔹 **1. Prepare the Project Files**  
+   - **Clone the GitHub repository:**  
+     ```sh
+     git clone https://github.com/yourusername/PortfolioWebsite.git
+     cd PortfolioWebsite
+     ```
+
+### 🔹 **2. Run the Project Using Docker**  
+   - **Build the Docker image:**  
+     ```sh
+     docker build -t portfolio-website .
+     ```
+   - **Run the Docker container:**  
+     ```sh
+     docker run -p 8080:80 portfolio-website
+     ```
+
+### 🔹 **3. Access the Website**  
+   - Open your browser and go to:  
+     👉 **http://localhost:8080**  
+
+---
+
+## 🎨 Features & Highlights  
+✅ **Fully responsive with a mobile-first approach**  
+✅ **Modern typography using REM & EM units**  
+✅ **Media queries for adaptive layouts**  
+✅ **Minimal and clean UI design**  
+✅ **Lightweight & fast with optimized assets**  
+✅ **Dockerized deployment for scalability**  
+
+---
+
+## 🚀 Future Improvements  
+- Add **JavaScript animations** for enhanced interactivity.  
+- Implement a **contact form** with backend support.  
+- Optimize performance using **lazy loading and minification**.  
+
+Feel free to **contribute**, **open an issue**, or **fork the repository** if you’d like to improve this project! 🚀  
+
+---
+
 
 # Portfolio Website  
 🚀 **HTML, CSS ve JavaScript** kullanılarak oluşturulmuş, modern, etkileşimli ve tamamen duyarlı bir portföy web sitesi.  
