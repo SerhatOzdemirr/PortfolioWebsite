@@ -39,7 +39,7 @@ To run this project locally using **Docker**, follow the steps below:
 ### 🔹 **1. Prepare the Project Files**  
    - **Clone the GitHub repository:**  
      ```sh
-     git clone https://github.com/yourusername/PortfolioWebsite.git
+     git clone https://github.com/SerhatOzdemirr/PortfolioWebsite.git
      cd PortfolioWebsite
      ```
 
